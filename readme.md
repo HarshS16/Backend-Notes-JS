@@ -7,4 +7,5 @@
 // files and directory structure 
 1) Package.json- manages all the packages
 2) .env- contains the environment variables
-3) src folder: contains index file for the basic structure and connecting to the database , 
+3) src folder: contains index file for the basic structure and connecting to the database ,
+4) 
